@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-petadoptionapp-staging-92218-authRole",
+      "UnauthRoleArn": "arn:aws:iam::070874230870:role/amplify-petadoptionapp-staging-92218-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::070874230870:role/amplify-petadoptionapp-staging-92218-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-petadoptionapp-staging-92218-deployment",
+      "UnauthRoleName": "amplify-petadoptionapp-staging-92218-unauthRole",
+      "StackName": "amplify-petadoptionapp-staging-92218",
+      "StackId": "arn:aws:cloudformation:eu-central-1:070874230870:stack/amplify-petadoptionapp-staging-92218/fdae0b70-6e34-11ed-b88a-0aefc95e9df0",
+      "AmplifyAppId": "d7i7rr9e6qncj"
+    },
+    "categories": {
+      "auth": {
+        "petadoptionapp": {}
+      }
+    }
+  }
+}
